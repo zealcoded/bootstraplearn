@@ -1,0 +1,36 @@
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+.nav{
+position: sticky;
+top: 0;
+z-index: 1;
+}
+.bg-image{
+    opacity: 0.8;
+}
+.display-1, .display-4{
+    color: white;
+    text-shadow: 5px 5px 5px #000000;
+}
+.display-1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn{
+    margin: 50px 50px;
+    box-shadow: 5px 5px 5px #424141;
+}
+.btn-dark:hover{
+    background-color: white;
+    color: black;
+}
+.menu{
+    color: black;
+    font-weight: 100;
+    padding: 50px;
+
+}
